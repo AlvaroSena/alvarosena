@@ -1,6 +1,5 @@
 ### Hey, I'm Álvaro Sena! 👋
-Backend Engineer with Node.js and Python 👨‍💻
-
+Full-stack Developer
 ### Find me
 <a target="_blank" rel="noopener noreferrer" href="http://alvarosena.tech">My Site</a>
 <br>
