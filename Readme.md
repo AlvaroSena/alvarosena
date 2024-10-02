@@ -1,4 +1,4 @@
-### Hey, I'm Álvaro Sena! 👋
+### Hey, I'm Alvaro Sena! 👋
 Full-stack Developer
 ### Find me
 <a target="_blank" rel="noopener noreferrer" href="https://linkedin.com/in/alvarosen4">Linkedin</a>
